@@ -36,3 +36,11 @@
     font-weight: 600;
     border-style: none;
 }
+
+.footer {
+    font-size: 14px;
+}
+.footer .dot {
+    color: #ddd;
+    margin: auto 10px;
+}
