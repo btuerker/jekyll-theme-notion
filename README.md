@@ -8,7 +8,7 @@
 
 Install `github-pages`
 
-````sh
+```sh
 gem install github-pages
 ```
 
