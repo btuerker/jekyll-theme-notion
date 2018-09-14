@@ -1,5 +1,5 @@
 .post-list h3 {
-    font-weight: 400;
+    font-weight: thin;
 }
 .post-list small {
     font-size: medium;
@@ -7,12 +7,12 @@
 
 .post-content h1 {
     font-size: 24px;
-    font-weight: 300;
+    font-weight: thin;
     border-style: none;
 }
 
 .post-content h2 {
     font-size: 20px;
-    font-weight: 400;
+    font-weight: thin;
     border-style: none;
 }
