@@ -20,7 +20,7 @@ github-pages versions
 
 Edit `_config.yml`, add
 
-```yaml
+```yml
 :plugins
     - jekyll-remote-theme
 ```
