@@ -28,13 +28,13 @@
 
   {{ content }}
 
-  {% if site.github.private != true %}
+  {%- if site.github.private == false -%}
   <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
       Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a>
       <span class="dot">•</span>
       {% github_edit_link "帮助改进本页内容" %}
   </div>
-  {% endif %}
+  {%- endif -%}
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
 <script>anchors.add();</script>
