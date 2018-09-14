@@ -21,8 +21,10 @@ github-pages versions
 Edit `_config.yml`, add
 
 ```yml
-:plugins
+plugins:
     - jekyll-remote-theme
+
+remote_theme: xindong/jekyll-theme-primer
 ```
 
 Run your site locally
