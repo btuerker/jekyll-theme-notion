@@ -1,4 +1,4 @@
-# XINDONG/Jekyll-theme-primer
+# A Notion-like Jekyll theme
 
 - This is a modified Jekyll theme based on [official theme](https://github.com/pages-themes/primer).
 - There will be no plan to have a pull request to merge the original repo.
@@ -24,7 +24,7 @@ Edit `_config.yml`, add
 plugins:
     - jekyll-remote-theme
 
-remote_theme: xindong/jekyll-theme-primer
+remote_theme: xdanger/jekyll-theme-notion
 ```
 
 Run your site locally
