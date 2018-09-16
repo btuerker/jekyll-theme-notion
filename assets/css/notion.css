@@ -93,6 +93,7 @@ main .main-menu-bar i {
     color: #666;
     font-size: 18px;
     margin-left: 6px;
+    padding-bottom: 12px;
 }
 main .main-menu-bar i:hover {
     color: #000;
